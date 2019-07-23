@@ -9,9 +9,14 @@ Be cautious when choosing the baseline for sentence embedding. Concatenation of 
 The library that (partially)used in this experiment: 
 
 SentEval: https://github.com/facebookresearch/SentEval
+
 Gensen: https://github.com/Maluuba/gensen
+
 bert-as-service: https://github.com/hanxiao/bert-as-service
+
 pytorch_pretrained_bert: https://github.com/huggingface/pytorch-transformers
+
 rand-lstm: https://github.com/facebookresearch/randsent
+
 Transformer: https://github.com/tensorflow/models/tree/master/official/transformer
 
