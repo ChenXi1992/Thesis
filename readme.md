@@ -6,7 +6,7 @@ Evaluate the sentence embedding which obtained from GloVe, fasttext, ELMo, BERT,
 Takeaway: 
 Be cautious when choosing the baseline for sentence embedding. Concatenation of average and max pooling should be used if contextual word embedding(ELMo,BERT,GPT etc) is being used. As for traditional word embedding(GloVe, fasttext, Gensen etc), projecting the word embedding to high dimensions in a randomly initialized Bi-LSTM model and using it as a baseline.
 
-The library that (partially)used in this experiment: 
+The repository that (partially)used in this experiment: 
 
 SentEval: https://github.com/facebookresearch/SentEval
 
